@@ -17,7 +17,5 @@ require (
 	github.com/prometheus/procfs v0.0.0-20190315082738-e56f2e22fc76 // indirect
 	github.com/sirupsen/logrus v1.4.0
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/crypto v0.0.0-20190313024323-a1f597ede03a // indirect
-	golang.org/x/sys v0.0.0-20190318195719-6c81ef8f67ca // indirect
-	golang.org/x/text v0.3.0 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 )
